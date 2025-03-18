@@ -1,0 +1,25 @@
+{
+  "name": "teksluggable",
+  "version": "1.0.0",
+  "description": "A lightweight package for generating slugs from strings.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teksite/teksluggable.git"
+  },
+  "keywords": [
+    "slugify",
+    "sluggable",
+    "slug",
+    "maker"
+  ],
+  "author": "sina zangiband",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/teksite/teksluggable/issues"
+  },
+  "homepage": "https://github.com/teksite/teksluggable#readme"
+}
